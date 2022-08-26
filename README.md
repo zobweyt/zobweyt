@@ -4,4 +4,3 @@
 **I'm Zobweyt (he/they)** - I'm a fullstack developer, moderator, and secondary school student. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 [![stats](https://github-readme-stats.vercel.app/api?username=zobweyt&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true)](https://github.com/zobweyt?tab=repositories)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobweyt&layout=compact&theme=midnight-purple&count_private=true&hide_border=true)](https://github.com/zobweyt?tab=repositories)
