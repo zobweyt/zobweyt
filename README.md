@@ -1,5 +1,5 @@
-[![status](https://dcbadge.vercel.app/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://github.com/zobweyt)
-[![server](https://dcbadge.vercel.app/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://discord.gg/YpxnjnMrYT)
+[![status](https://dcbadge.vercel.app/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://discord.com/users/621276641166884867)
+[![server](https://dcbadge.vercel.app/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://dsc.gg/zobweyt)
 
 **I'm Nikita (he/they)** - I'm a fullstack developer, moderator, and secondary school student. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
