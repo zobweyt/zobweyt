@@ -5,4 +5,4 @@
 
 [![stats dark](https://github-readme-stats.vercel.app/api?username=zobweyt&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117&custom_title=Statistics%20Overview&count_private=true#gh-dark-mode-only)](https://github.com/zobweyt?tab=repositories&q=&type=&language=&sort=name#gh-dark-mode-only)
 
-[![stats light](https://github-readme-stats.vercel.app/api?username=zobweyt&show_icons=true&theme=default&custom_title=Statistics%20Overview&count_private=true#gh-light-mode-only)](https://github.com/zobweyt?tab=repositories&q=&type=&language=&sort=name#gh-light-mode-only)
+[![stats light](https://github-readme-stats.vercel.app/api?username=zobweyt&show_icons=true&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de&theme=default&custom_title=Statistics%20Overview&count_private=true#gh-light-mode-only)](https://github.com/zobweyt?tab=repositories&q=&type=&language=&sort=name#gh-light-mode-only)
