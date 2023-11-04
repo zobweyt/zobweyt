@@ -1,7 +1,9 @@
+# Hey There! 👋
+
 [![DiscordStatus](https://dcbadge.vercel.app/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://discord.com/users/621276641166884867)
 [![DiscordServer](https://dcbadge.vercel.app/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://dsc.gg/zobweyt)
 
-Hey! **I'm zobweyt** — a fullstack developer, designer, moderator, and high school student. I'm interested in development, moderation, and building thriving online communities. In my free time, I work on various projects, many of which involve Discord.
+**I'm zobweyt** — a fullstack developer, designer, moderator, and high school student. I'm interested in development, optimization, moderation, and building thriving online communities. In my free time, I work on various projects, many of which involve Discord.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,rust,mysql,solidjs,tauri,py,django,fastapi,docker,figma)](https://github.com/zobweyt?tab=repositories&q=&type=&language=&sort=name)
 
