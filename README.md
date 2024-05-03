@@ -9,8 +9,8 @@
 
 <section>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zobweyt&count_private=true&line_height=20&custom_title=Overview&show_icons=true&title_color=2f81f7&text_color=e6edf3&icon_color=7d8590&border_color=30363d&bg_color=00000000">
-    <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=zobweyt&count_private=true&line_height=20&custom_title=Overview&show_icons=true&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zobweyt&count_private=true&line_height=20&custom_title=Overview&rank_icon=github&show_icons=true&title_color=2f81f7&text_color=e6edf3&icon_color=7d8590&border_color=30363d&bg_color=00000000">
+    <img alt="Overview" src="https://github-readme-stats.vercel.app/api?username=zobweyt&count_private=true&line_height=20&custom_title=Overview&rank_icon=github&show_icons=true&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de">
   </picture>
   &nbsp;
   <picture>
