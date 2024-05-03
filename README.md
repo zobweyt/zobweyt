@@ -5,7 +5,7 @@
 
 'sup? I'm **zobweyt**! I'm engaged into software engineering, optimization, design, moderation, and building thriving online communities. In my free time, I work on various projects, many of which involve Discord.
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,rust,solidjs,tauri,py,django,fastapi,docker,figma)](https://github.com/zobweyt?tab=repositories&q=&type=source)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,rust,solidjs,tauri,py,django,fastapi,docker,figma)](https://github.com/zobweyt?tab=repositories&type=source)
 
 <section>
   <picture>
