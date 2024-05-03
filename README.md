@@ -1,11 +1,11 @@
 # Hey There! 👋
 
-[![Discord status](https://dcbadge.vercel.app/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://discord.com/users/621276641166884867)
-[![Discord server](https://dcbadge.vercel.app/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://dsc.gg/zobweyt)
+[![Status](https://dcbadge.vercel.app/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://discord.com/users/621276641166884867)
+[![Server](https://dcbadge.vercel.app/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://dsc.gg/zobweyt)
 
 'sup? I'm **zobweyt**! I'm engaged into software engineering, optimization, design, moderation, and building thriving online communities. In my free time, I work on various projects, many of which involve Discord.
 
-[![Skill icons](https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,rust,solidjs,tauri,py,django,fastapi,docker,figma)](https://github.com/zobweyt?tab=repositories&q=&type=source)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,rust,solidjs,tauri,py,django,fastapi,docker,figma)](https://github.com/zobweyt?tab=repositories&q=&type=source)
 
 <section>
   <picture>
