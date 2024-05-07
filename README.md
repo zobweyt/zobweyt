@@ -1,7 +1,7 @@
 # Hey There! 👋
 
 [![Status](https://dcbadge.limes.pink/api/shield/621276641166884867?style=flat&theme=clean-inverted)](https://discord.com/users/621276641166884867)
-[![Server](https://dcbadge.limes.pink/api/server/YpxnjnMrYT?style=flat&theme=clean-inverted)](https://dsc.gg/zobweyt)
+[![Server](https://dcbadge.limes.pink/api/server/YpxnjnMrYT?style=flat&theme=bluepure)](https://dsc.gg/zobweyt)
 
 'sup? I'm **zobweyt**! I'm engaged into software engineering, optimization, design, moderation, and building thriving online communities. In my free time, I work on various projects, many of which involve Discord.
 
