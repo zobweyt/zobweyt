@@ -14,16 +14,16 @@
   </picture>
 </div>
 
-#### Apps & Operating Systems
+### Apps & Operating Systems
 
 [![Image](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker)](https://github.com/zobweyt?tab=repositories&type=source)
 
-#### Programming Languages & Libraries
+### Programming Languages & Libraries
 
 [![Image](https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go)](https://github.com/zobweyt?tab=repositories&type=source)
 
 [![Image](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi)](https://github.com/zobweyt?tab=repositories&type=source)
 
-#### Databases & Cache
+### Databases & Cache
 
 [![Image](https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite)](https://github.com/zobweyt?tab=repositories&type=source)
