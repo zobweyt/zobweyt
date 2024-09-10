@@ -16,26 +16,40 @@
 
 ### Apps & Operating Systems
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker">
+<!-- NOTE: GitHub markdown renderer treats commas (,) in `srcset` of a `source` as separate images. Waiting for a fix to use it in the future. -->
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=dark">
   <img alt="Apps & Operating Systems" src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=light">
-</picture>
+</picture> -->
+
+[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=dark)](https://github/zobweyt#gh-dark-mode-only)
+[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=light)](https://github/zobweyt#gh-light-mode-only)
 
 ### Programming Languages & Libraries
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go">
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go&theme=dark">
   <img alt="Programming Languages" src="https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go&theme=light">
-</picture>
+</picture> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi">
+[![Programming Languages](https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go&theme=dark)](https://github/zobweyt#gh-dark-mode-only)
+[![Programming Languages](https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go&theme=light)](https://github/zobweyt#gh-light-mode-only)
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=dark">
   <img alt="Libraries" src="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=light">
-</picture>
+</picture> -->
 
-### Databases & Cache
+[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=dark)](https://github/zobweyt#gh-dark-mode-only)
+[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=light)](https://github/zobweyt#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite">
+### Databases
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite&theme=dark">
   <img alt="Libraries" src="https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite&theme=light">
-</picture>
+</picture> -->
+
+[![Databases](https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite&theme=dark)](https://github/zobweyt#gh-dark-mode-only)
+[![Databases](https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite&theme=light)](https://github/zobweyt#gh-light-mode-only)
