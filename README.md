@@ -23,8 +23,8 @@
   <img alt="Apps & Operating Systems" src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=light">
 </picture> -->
 
-[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
-[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=light)](https://github.com/zobweyt#gh-light-mode-only)
+[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker,nginx&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
+[![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker,nginx&theme=light)](https://github.com/zobweyt#gh-light-mode-only)
 
 ### Programming Languages & Libraries
 
@@ -41,8 +41,8 @@
   <img alt="Libraries" src="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=light">
 </picture> -->
 
-[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
-[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=light)](https://github.com/zobweyt#gh-light-mode-only)
+[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi,astro&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
+[![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi,astro&theme=light)](https://github.com/zobweyt#gh-light-mode-only)
 
 ### Databases
 
