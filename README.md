@@ -19,8 +19,8 @@
 <!-- NOTE: GitHub markdown renderer treats commas (,) in `srcset` of a `source` as separate images. Waiting for a fix to use it in the future. -->
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=dark">
-  <img alt="Apps & Operating Systems" src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker,nginx&theme=dark">
+  <img alt="Apps & Operating Systems" src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker,nginx&theme=light">
 </picture> -->
 
 [![Apps & Operating Systems](https://skillicons.dev/icons?i=linux,vscode,visualstudio,obsidian,figma,bash,codepen,neovim,git,docker,nginx&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
@@ -37,8 +37,8 @@
 [![Programming Languages](https://skillicons.dev/icons?i=latex,regex,md,py,js,ts,html,css,scss,cs,rust,go&theme=light)](https://github.com/zobweyt#gh-light-mode-only)
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=dark">
-  <img alt="Libraries" src="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi,astro&theme=dark">
+  <img alt="Libraries" src="https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi,astro&theme=light">
 </picture> -->
 
 [![Libraries](https://skillicons.dev/icons?i=tailwind,solidjs,vite,tauri,qt,htmx,flask,django,fastapi,astro&theme=dark)](https://github.com/zobweyt#gh-dark-mode-only)
