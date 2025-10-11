@@ -18,7 +18,7 @@ I’m Nikita Gaziev (aka zobweyt) — a 17 y.o. student from Moscow, Russia, pas
 
 ## 🌐 Open Source Highlights
 
-- **Creator of [textcase](https://github.com/zobweyt/textcase)**: Authored and published a Python library for text case conversion. Designed with a focus on accuracy and developer experience, it has gained significant adoption with [over 65,000 monthly downloads on PyPI](https://pypistats.org/packages/textcase).
+- **Creator of [textcase](https://github.com/zobweyt/textcase)**: Authored and published a Python library for text case conversion. Designed with a focus on accuracy and developer experience, it has gained significant adoption with [over 80,000 monthly downloads on PyPI](https://pypistats.org/packages/textcase).
 - **Contributor to [Kobalte](https://github.com/kobaltedev/kobalte)**: Implemented and delivered a [segmented control component](https://kobalte.dev/docs/core/components/segmented-control) to this UI library, enhancing its component ecosystem for the SolidJS community (https://github.com/kobaltedev/kobalte/pull/531).
 
 ## 🏆 Awards & Achievements
