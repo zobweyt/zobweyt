@@ -23,8 +23,8 @@ I’m Nikita Gaziev (aka zobweyt) — a 17 y.o. student from Moscow, passionate 
 
 ## 🌐 Open Source Highlights
 
-- **Creator of [textcase](https://github.com/zobweyt/textcase)**: Authored and published a Python library for text case conversion. Designed with a focus on accuracy and developer experience, it has gained significant adoption with [over 500,000 monthly downloads on PyPI](https://pypistats.org/packages/textcase).
-- **Contributor to [Kobalte](https://github.com/kobaltedev/kobalte)**: Implemented and delivered a [segmented control component](https://kobalte.dev/docs/core/components/segmented-control) to this UI library, enhancing its component ecosystem for the SolidJS community (https://github.com/kobaltedev/kobalte/pull/531).
+- **Creator of [textcase](https://github.com/zobweyt/textcase)**: Authored and published a Python library for text case conversion. Designed with a focus on accuracy and developer experience.
+- **Contributor to [Kobalte](https://github.com/kobaltedev/kobalte)**: Implemented and delivered a [segmented control component](https://kobalte.dev/docs/core/components/segmented-control) to the library, enhancing its component ecosystem for the SolidJS community (https://github.com/kobaltedev/kobalte/pull/531).
 
 ## 🏆 Awards & Achievements
 
@@ -34,6 +34,14 @@ I’m Nikita Gaziev (aka zobweyt) — a 17 y.o. student from Moscow, passionate 
 
 - **Led frontend development** in a **team of 5 people** building coworking space booking app.
 - Engineered **admin dashboard** and **2-click booking flow** for registered users, reducing the time to secure a seat.
+
+### 🥇 [PROD Contest Hackathon](https://prodcontest.com/hackathon) Moscow 2025 Winner & Best Team
+
+[Source Code](https://github.com/zobweyt/pay-me-more) · [Presentation](https://drive.google.com/file/d/1QutI36Mz5KE2s5AMut7RBjp2S-K2DWox/view?usp=sharing) · [Certificate](https://drive.google.com/file/d/16BgkDvgXazV2HwlKTNocKHoqXHzQxvDf/view?usp=sharing)
+
+- **Led frontend development** in a **team of 5 people** building AI salary fork prediction based on user-provided resume app.
+- Built an intuitive, user-friendly landing page and resume form with PDF import, reducing the time to get the AI salary fork prediction.
+- Added polished and entertaining loading animations for recommendation results.
 
 ## 📫 How to Reach Me
 
