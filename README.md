@@ -2,8 +2,6 @@
 
 I’m Nikita Gaziev (aka zobweyt) — a 17 y.o. student from Moscow, passionate about **frontend** and **open source**. Focused on engineering **accessible** and **high-performance** UIs. Currently exploring the world of **self-hosting infrastructure**. I mostly use **JavaScript** & **TypeScript**, **Python** and code on **macOS** and **WSL (NixOS)**.
 
-> 💡 **Fun fact**: I’m building Minecraft adventure maps and datapacks in my free time in addition to coding.
-
 ## 📊 Stats
 
 <div align="start">
