@@ -11,7 +11,7 @@ I’m Nikita Gaziev (aka zobweyt) — a 17 y.o. student from Moscow, passionate 
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://zobweyt-github-readme-stats.vercel.app/api/top-langs/?username=zobweyt&count_private=true&langs_count=8&hide=html%2Ccss%2Cscss&size_weight=0.75&count_weight=0.25&layout=compact&border_radius=16&title_color=f0f6fc&text_color=e6edf3&hide_border=true&bg_color=242938">
+    <source media="(prefers-color-scheme: dark)" srcset="https://zobweyt-github-readme-stats.vercel.app/api/top-langs/?username=zobweyt&count_private=true&langs_count=8&hide=html%2Ccss%2Cscss%2Cshell&size_weight=0.75&count_weight=0.25&layout=compact&border_radius=16&title_color=f0f6fc&text_color=e6edf3&hide_border=true&bg_color=242938">
     <img alt="Most Used Languages" src="https://zobweyt-github-readme-stats.vercel.app/api/top-langs/?username=zobweyt&count_private=true&langs_count=8&hide=html%2Ccss%2Cscss%2Cshell&size_weight=0.75&count_weight=0.25&layout=compact&border_radius=16&title_color=1f2328&text_color=24292f&hide_border=true&bg_color=f4f2ed">
   </picture>
 </div>
